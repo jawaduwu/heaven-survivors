@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "Heaven Survivors",
+  "short_name": "Heaven Survivors",
+  "description": "Guide your angel and hold the line against shadow-wisps.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#141233",
+  "theme_color": "#141233",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
